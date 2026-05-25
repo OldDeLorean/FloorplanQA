@@ -1,10 +1,13 @@
 # FloorplanQA
 
 <p align="center">
-  <img src="docs/assets/logo-icml.svg" alt="ICML 2026" height="64">
+  <img src="docs/assets/logo-icml.svg" alt="ICML 2026" height="32">
 </p>
 
-> **Accepted at ICML 2026** (Seoul, South Korea). Project page: <https://olddelorean.github.io/FloorplanQA/> · Citation at the bottom of this README.
+> **Accepted at ICML 2026** (Seoul, South Korea).
+
+Project page: <https://olddelorean.github.io/FloorplanQA/>    
+Citation at the bottom of this README.
 
 Code release for **FloorplanQA**, a benchmark of spatial-reasoning questions over
 top-down floorplan layouts. The repository contains the layout-rendering
